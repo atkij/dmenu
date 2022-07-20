@@ -1,0 +1,7 @@
+dmenu-caseinsensitive
+dmenu-gridnav
+dmenu-lineheight
+dmenu-xyw
+dmenu-grid
+dmenu-gridnav
+dmenu-password
